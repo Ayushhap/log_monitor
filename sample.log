@@ -1,0 +1,5 @@
+2024-04-22 12:00:00 - INFO - Application started
+2024-04-22 12:05:00 - DEBUG - Debugging information
+2024-04-22 12:10:00 - ERROR - Something went wrong
+2024-04-22 12:15:00 - INFO - New information logged
+2024-04-22 12:20:00 - ERROR - Another error occurred
